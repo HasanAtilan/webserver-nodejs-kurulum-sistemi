@@ -70,8 +70,8 @@ printf("Tüm Servisler Basari İle Kuruldu Coded By HasanAtilan",yesil,sari);
 hatalisectiniz(){
   printf("%s• • • • • • • • • • • • • • • • • • • • • • • • • • • • • •\n",kirmizi);
 	printf("%s• •                                                     • •\n",mavi);
-	printf("%s• •                 %sYanlış tuşlama                      %s• •\n",mavi,sari,mavi);
-	printf("%s• •                 %sScript Kapatiliyor                  %s• •\n",mavi,yesil,mavi);
+	printf("%s• •                 %sNiye Yanlis Tusladin Birader                      %s• •\n",mavi,sari,mavi);
+	printf("%s• •                 %sNeyse Script Kapatiliyor                  %s• •\n",mavi,yesil,mavi);
 	printf("%s• •                                                     • •\n",sari);
 	printf("%s• • • • • • • • • • • • • • • • • • • • • • • • • • • • • •",yesil);
 	printf("%s \n",normal);
